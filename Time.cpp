@@ -9,10 +9,10 @@ using namespace std;
  
 class Time
 {
-    private:
+private:
         int seconds;
         int hh,mm,ss;
-    public:
+public:
         void getTime(void);
         void convertIntoSeconds(void);
         void displayTime(void);
