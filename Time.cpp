@@ -1,5 +1,5 @@
 # Reading-time-in-HH-MM-SS-format
-//Created a program to read time in HH:MM:SS format , and lastly even calculating the total no. of seconds
+//Created a program to read time in HH:MM:SS format , and lastly even calculating the total no. of seconds .
 /*C++ program to read time in HH:MM:SS format and convert into total seconds.*/
  
 #include <iostream>
